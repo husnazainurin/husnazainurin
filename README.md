@@ -1,16 +1,14 @@
-## Hi there 👋
+# Introducing Myself 👋
 
-<!--
-**husnazainurin/husnazainurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Husna. I am currently enrolling as a 3rd year Computer Science student, specializing in Data Science and AI. I'm expecting to graduate around July 2027.
 
-Here are some ideas to get you started:
+## 📚 Projects
+You can view projects I have worked in the past [here](https://github.com/husnazainurin/portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+* Language: Python, R, SQL, Java, JavaScript, C
+* Tools: Git, Visual Studio Code, Power BI
+
+## 👋🏻 Connect with Me
+* [LinkedIn](www.linkedin.com/in/husna-zainurin-204558389)
+* [E-mail](mailto:nurulhusnazainurin@gmail.com)
