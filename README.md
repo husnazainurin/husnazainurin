@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
+<img width="1280" height="420" alt="Add a heading (2)" src="https://github.com/user-attachments/assets/0a54bf87-a35d-43ef-88c3-92d3b0173848" />
+
+
 # Introducing Myself 👋
 
 Hello, I'm Husna. I am currently enrolling as a 3rd year Computer Science student, specializing in Data Science and AI. I'm expecting to graduate around July 2027.
