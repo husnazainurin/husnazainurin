@@ -13,6 +13,9 @@
 3rd year Computer Science student specializing in Data Science and AI
 
 ### ✨ Project Showcase
+For now, I have only documented 1 project properly. 
+But I do plan on documenting more projects I've done in my previous semesters and add it here ASAP, so if you're interested you can check it out again later 😊
+
 #### [⚡Energy Time-Series Forecasting with Conformal Prediction](https://github.com/husnazainurin/energy-forecasting)
 *Description*
 <br>
