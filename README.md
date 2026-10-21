@@ -17,7 +17,7 @@ For now, I have only documented 1 project properly.
 But I do plan on documenting more ***awesome*** projects I've done in the past, so if you're interested you can check it out again later 😊
 |Project Title|Descriptions|Showcased Skill|
 |---|---|---|
-|[⚡Energy Time-Series Forecasting with Conformal Prediction](https://github.com/husnazainurin/energy-forecasting)|Predicts future energy consumption using deep time-series models while leveraging conformal prediction to guarantee statistically sound prediction intervals for risk-aware decision-making. Click the title to see more!|End-to-end time-series modelling framework|
+|[⚡Energy Time-Series Forecasting with Conformal Prediction](https://github.com/husnazainurin/energy-forecasting)|Predicts future energy consumption using deep time-series models while leveraging conformal prediction to guarantee statistically sound prediction intervals for risk-aware decision-making. Click the title to see more!|End-to-end Machine Learning Pipeline|
 
 ### 💻 Technical Skills
 <table>
