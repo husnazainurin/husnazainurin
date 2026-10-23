@@ -27,7 +27,6 @@ But I do plan on documenting more ***awesome*** projects I've done in the past, 
     <td>
       <img src="https://skillicons.dev/icons?i=py,r" />
       <img src="https://img.shields.io/badge/SQL-025E8A?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align: middle;" />
-      <img src="https://skillicons.dev/icons?i=java,js" />
     </td>
   </tr>
 
@@ -46,9 +45,9 @@ But I do plan on documenting more ***awesome*** projects I've done in the past, 
       <a>
         <img src="https://skillicons.dev/icons?i=vscode" />
       </a>
-        <img width="48" height="48" alt="SSMS" src="https://github.com/user-attachments/assets/e9d09d77-239b-46db-a650-22db0cea9ed1" />
-        <img width="48" height="48" alt="Power BI" src="https://github.com/user-attachments/assets/77a35d1b-7821-4573-9d06-44818292b393" />
-        <img src="https://skillicons.dev/icons?i=git,idea" />
+        <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/974112e7-c39b-4cc5-be25-b62d951c3e55" />
+        <img width="48" height="48" alt="Power BI" src="https://github.com/user-attachments/assets/8780c66e-9154-473b-8b71-b10775ba2502" />
+        <img src="https://skillicons.dev/icons?i=git" />
     </td>
   </tr>
 </table>
