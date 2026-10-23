@@ -10,51 +10,55 @@
 [![](https://img.shields.io/badge/Data_Science-4287f5)](#)
 
 ### ✨ Introducing Myself
-3rd year Computer Science student specializing in Data Science and AI
+Final year Computer Science student specializing in Data Science and AI
 
 ### ✨ Project Showcase
-For now, I have only documented 1 project properly. 
+For now, I have only documented 1 project properly, and 1 is on-the-way.
 But I do plan on documenting more ***awesome*** projects I've done in the past, so if you're interested you can check it out again later 😊
-|Project Title|Descriptions|Showcased Skill|
-|---|---|---|
-|[⚡Energy Time-Series Forecasting with Conformal Prediction](https://github.com/husnazainurin/energy-forecasting)|Predicts future energy consumption using deep time-series models while leveraging conformal prediction to guarantee statistically sound prediction intervals for risk-aware decision-making. Click the title to see more!|End-to-end Machine Learning Pipeline|
+|Project Title|Descriptions|Tech Stack|Primary Language|
+|---|---|---|---|
+|[⚡Energy Time-Series Forecasting with Conformal Prediction](https://github.com/husnazainurin/energy-forecasting)|End-to-end machine learning pipeline that predicts future energy consumption using deep time-series models while leveraging conformal prediction to guarantee statistically sound prediction intervals for risk-aware decision-making.|VSCode|Python|
+|[⛽ Fuel Price Effect on Consumer Price Index in Malaysia](https://github.com/husnazainurin/fuel-and-inflation)|A dashboard that visualizes historical fuel price trends and their relationship with inflation in Malaysia, providing insights into cost fluctuations and their potential impact on consumers and the broader economy. |SSMS, PowerBI|SQL|
 
 ### 💻 Technical Skills
 <table>
   <tr>
     <th>Language</th>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r" /></a>
+      <img src="https://skillicons.dev/icons?i=py,r" />
       <img src="https://img.shields.io/badge/SQL-025E8A?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align: middle;" />
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,js" /></a>
+      <img src="https://skillicons.dev/icons?i=java,js" />
     </td>
   </tr>
 
   <tr>
     <th>Libraries</th>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,pytorch" />
-      </a>
+        <img width="48" height="48" alt="pandas" src="https://github.com/user-attachments/assets/82068886-16c3-47c4-a11d-d6557612ca92" />
+        <img width="48" height="48" alt="numpy" src="https://github.com/user-attachments/assets/6c5dea9a-f112-4c4f-bf05-038eb0179afb" />
+        <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
     </td>
   </tr>
 
   <tr>
-    <th>Tools</th>
+    <th>Tech Stack</th>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,vscode,idea" />
+      <a>
+        <img src="https://skillicons.dev/icons?i=vscode" />
       </a>
+        <img width="48" height="48" alt="SSMS" src="https://github.com/user-attachments/assets/e9d09d77-239b-46db-a650-22db0cea9ed1" />
+        <img width="48" height="48" alt="Power BI" src="https://github.com/user-attachments/assets/77a35d1b-7821-4573-9d06-44818292b393" />
+        <img src="https://skillicons.dev/icons?i=git,idea" />
     </td>
   </tr>
 </table>
 
-### 🤓 Currently Studying
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 
 ## 👋🏻 Connect with Me
+
+If you like what I do, feel free to reach out via (*yes, the icons are clickable!!*):
 <div>
-  <a href = 'www.linkedin.com/in/husna-zainurin-204558389'>
+  <a href = 'https://www.linkedin.com/in/husna-zainurin-204558389'>
     <img width="40" height="40" src="https://github.com/user-attachments/assets/d3d48ae7-12ca-4e23-b746-c9fdc776540d"/>
   </a>
 </div>
