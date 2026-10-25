@@ -18,7 +18,7 @@ But I do plan on documenting more ***awesome*** projects I've done in the past, 
 |Project Title|Descriptions|Tech Stack|Primary Language|
 |---|---|---|---|
 |[⚡Energy Time-Series Forecasting with Conformal Prediction](https://github.com/husnazainurin/energy-forecasting)|End-to-end machine learning pipeline that predicts future energy consumption using deep time-series models while leveraging conformal prediction to guarantee statistically sound prediction intervals for risk-aware decision-making.|VSCode|Python|
-|[⛽ Fuel Price Effect on Consumer Price Index in Malaysia](https://github.com/husnazainurin/fuel-and-inflation)|A dashboard that visualizes historical fuel price trends and their relationship with inflation in Malaysia, providing insights into cost fluctuations and their potential impact on consumers and the broader economy. |SSMS, PowerBI|SQL|
+<!--|[⛽ Fuel Price Effect on Consumer Price Index in Malaysia](https://github.com/husnazainurin/fuel-and-inflation)|A dashboard that visualizes historical fuel price trends and their relationship with inflation in Malaysia, providing insights into cost fluctuations and their potential impact on consumers and the broader economy. |SSMS, PowerBI|SQL|-->
 
 ### 💻 Technical Skills
 <table>
