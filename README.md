@@ -10,7 +10,12 @@
 [![](https://img.shields.io/badge/Data_Science-4287f5)](#)
 
 ### ✨ Introducing Myself
-Final year Computer Science student specializing in Data Science and AI
+Hello! I am Husna, a final year computer science student @ IIUM Gombak. 
+
+I stumbled upon my passion for coding when Asas Sains Komputer became mandatory in my high school. The code taught at the time was super simple, but it's satisfying when my code works (when nobody else's did haha). I joined a national high school coding competition when I was 14, but suffice to say I didn't win, since my only source of knowledge at the time is what was taught in the high school syllabus, and I didn't even know basic stuff like using packages (which would've made my life a lot easier!!)
+
+I love exploring new stuff, it intrigues me. I hope you find my page interesting!
+
 
 ### ✨ Project Showcase
 For now, I have only documented 2 projects, but I am still in the process of documenting some others!
@@ -95,6 +100,8 @@ For now, I have only documented 2 projects, but I am still in the process of doc
   </tr>
 </table>
 
+## 🔍 Current Interest
+I recently stumbled upon fine-tuning LLM and is interested.. But I can only read theoretical/surface-level practices right now since I have limited hardware resources.
 
 ## 👋🏻 Connect with Me
 
