@@ -13,12 +13,55 @@
 Final year Computer Science student specializing in Data Science and AI
 
 ### ✨ Project Showcase
-For now, I have only documented 1 project properly, and 1 is on-the-way.
-But I do plan on documenting more ***awesome*** projects I've done in the past, so if you're interested you can check it out again later 😊
-|Project Title|Descriptions|Tech Stack|Primary Language|
-|---|---|---|---|
-|[⚡Energy Time-Series Forecasting with Conformal Prediction](https://github.com/husnazainurin/energy-forecasting)|End-to-end machine learning pipeline that predicts future energy consumption using deep time-series models while leveraging conformal prediction to guarantee statistically sound prediction intervals for risk-aware decision-making.|VSCode|Python|
-<!--|[⛽ Fuel Price Effect on Consumer Price Index in Malaysia](https://github.com/husnazainurin/fuel-and-inflation)|A dashboard that visualizes historical fuel price trends and their relationship with inflation in Malaysia, providing insights into cost fluctuations and their potential impact on consumers and the broader economy. |SSMS, PowerBI|SQL|-->
+For now, I have only documented 2 projects, but I am still in the process of documenting some others!
+
+<table>
+    <tr>
+        <th>Project Title</th>
+        <th>Descriptions</th>
+        <th>Tech Stack</th>
+        <th>Key Results</th>
+    </tr>
+    <tr>
+        <td><a href = 'https://github.com/husnazainurin/energy-forecasting'>⚡Energy Time-Series Forecasting with Conformal Prediction</a></td>
+        <td>End-to-end machine learning pipeline that predicts future energy consumption using deep time-series models while leveraging conformal prediction to guarantee statistically sound prediction intervals for risk-aware decision-making.</td>
+        <td>Python, Scikit-Learn, Streamlit</td>
+        <td>
+            <ul>
+                <li>
+                    XGBoost model results in ~57.1Wh RMSE and 0.79 R<sup>2</sup> (explained variance) score.
+                </li>
+                <li>
+                    Adaptive conformal prediction covers 95% of the test data accurately with tight average margin of ~95.6Wh. The miscoverage mainly concentrates on sudden peak shifts.
+                </li>
+                <li>
+                    Implemented the model in an interactive dashboard in Streamlit Community Cloud. See the dashboard <a href = 'https://energy-forecasting-uci.streamlit.app/'>here</a>.
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href = 'https://github.com/husnazainurin/ai-written-essay-classifier'>🤖 Human and AI-generated Movie Reviews Classifier</a></td>
+        <td>A dashboard that classify between human-written and AI-generated favorite movie reviews, just to understand AI language framework a little bit better.</td>
+        <td>Python, NLTK, Scikit-Learn</td>
+        <td>
+            <ul>
+                <li>
+                Achieved 97.7% mean accuracy across 5 cross-validation evaluation.
+                </li>
+                <li>
+                    Deployment in interactive dashboard. Users can enter their own written review, or prompt any AI tools to challenge the model. Check it out <a>here</a>!
+                </li>       
+            </ul>            
+        </td>
+    </tr>
+    <tr>
+        <td><i>Ongoing: </i> ReMOTION: Recovery Motion Intelligence through Comparative Hand Gesture Recognition for Smart Rehabilitation</td>
+        <td>This is my FYP. It's a web-app that assist stroke patients with their hand rehabilitation exercise through gesture recognition, assess their progress and deliver reports to their physiotherapist through interactive dashboard.</td>
+        <td>Python, MySQL, PowerBI REST API, Streamlit</td>
+        <td>This project is still ongoing, but for now the MediaPipe + LSTM model achieves ~87% gesture recognition accuracy for +- 10 unit tolerance.</td>
+    </tr>
+</table>
 
 ### 💻 Technical Skills
 <table>
