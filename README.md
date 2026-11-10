@@ -12,7 +12,7 @@
 ### ✨ Introducing Myself
 Hello! I am Husna, a final year computer science student @ IIUM Gombak. 
 
-I stumbled upon my passion for coding when Asas Sains Komputer became mandatory in my high school. The code taught at the time was super simple, but it's satisfying when my code works (when nobody else's did haha). I joined a national high school coding competition when I was 14, but suffice to say I didn't win, since my only source of knowledge at the time is what was taught in the high school syllabus, and I didn't even know basic stuff like using packages (which would've made my life a lot easier!!)
+I stumbled upon my passion for coding when Asas Sains Komputer became mandatory in my high school. The code taught at the time was super simple, but it's satisfying when my code works (when nobody else's did haha). I joined a national high school coding competition when I was 14, but suffice to say I didn't win, since my only source of knowledge at the time is what was taught in the high school syllabus, and I didn't even know basic stuff like using packages (which would've made my life a lot easier!!) But it was a fun experience!
 
 I love exploring new stuff, it intrigues me. I hope you find my page interesting!
 
